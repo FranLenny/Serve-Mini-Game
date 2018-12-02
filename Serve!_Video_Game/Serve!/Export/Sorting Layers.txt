@@ -1,0 +1,6 @@
+Sorting Layers:
+Background - Background, Food in posters (Soda_0, Coffee, Donut_9, Sandwitch, Salad)
+Table - Tables_1, Tables_1 (1), Tables_1 (2)
+Customers - People_0, People_2, People_3
+Chairs - Chair_1, chair_2, chair_ (1), Chair_1 (1), chair_2 (1), Chair_1 (2), chair_2 (2)
+Player - Player_Character

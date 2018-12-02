@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 6a69fb31578ea16478e6ccf1dee97657
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: People_0
+    21300002: People_1
+    21300004: People_2
+    21300006: People_3
+    21300008: People_4
+    21300010: People_5
+    21300012: People_6
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: People_0
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 487
+        width: 263
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.5, y: -227}
+        - {x: 113.5, y: -227}
+        - {x: 114.5, y: -223}
+        - {x: 111.5, y: -221}
+        - {x: 108.5, y: -224}
+      - - {x: 123.5, y: -218}
+        - {x: 126.5, y: -217}
+        - {x: 126.5, y: -214}
+        - {x: 123.5, y: -213}
+        - {x: 121.5, y: -215}
+      - - {x: 106.5, y: -214}
+        - {x: 108.5, y: -216}
+        - {x: 111.5, y: -215}
+        - {x: 111.5, y: -211}
+        - {x: 109.5, y: -209}
+        - {x: 106.5, y: -210}
+      - - {x: 131.5, y: 83}
+        - {x: 131.5, y: 227}
+        - {x: -86.5, y: 227}
+        - {x: -131.5, y: 219}
+        - {x: -131.5, y: -151}
+        - {x: -98.5, y: -209}
+        - {x: -17.5, y: -209}
+        - {x: -13.5, y: -177}
+        - {x: 60.5, y: -78}
+        - {x: 81.5, y: -45}
+      - - {x: 124.5, y: -199}
+        - {x: 126.5, y: -201}
+        - {x: 129.5, y: -200}
+        - {x: 129.5, y: -194}
+        - {x: 127.5, y: -192}
+        - {x: 124.5, y: -193}
+      - - {x: 107.5, y: -197}
+        - {x: 109.5, y: -199}
+        - {x: 112.5, y: -198}
+        - {x: 112.5, y: -192}
+        - {x: 110.5, y: -190}
+        - {x: 107.5, y: -191}
+      - - {x: 119.5, y: -198}
+        - {x: 122.5, y: -197}
+        - {x: 122.5, y: -194}
+        - {x: 119.5, y: -193}
+        - {x: 117.5, y: -195}
+      - - {x: 116.5, y: -174}
+        - {x: 118.5, y: -176}
+        - {x: 121.5, y: -175}
+        - {x: 122.5, y: -162}
+        - {x: 119.5, y: -160}
+        - {x: 116.5, y: -163}
+      - - {x: 127.5, y: -158}
+        - {x: 123.5, y: -162}
+        - {x: 123.5, y: -164}
+        - {x: 125.5, y: -166}
+        - {x: 131.5, y: -165}
+        - {x: 131.5, y: -158}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e08081caf98f4d9eafd046e2e259a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: People_1
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 867
+        width: 407
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 112}
+        - {x: 21.5, y: 103}
+        - {x: 49.5, y: 160}
+        - {x: 53.5, y: 224}
+        - {x: 4.5, y: 244}
+        - {x: -60.5, y: 244}
+        - {x: -77.5, y: 202}
+        - {x: -65.5, y: 145}
+        - {x: -129.5, y: 187}
+        - {x: -203.5, y: 99}
+        - {x: -203.5, y: 80}
+        - {x: -81.5, y: -244}
+        - {x: 16.5, y: -244}
+        - {x: 203.5, y: 65}
+        - {x: 203.5, y: 142}
+        - {x: 41.5, y: 120}
+      - - {x: -121.5, y: -179}
+        - {x: -120.5, y: -182}
+        - {x: -117.5, y: -182}
+        - {x: -115.5, y: -180}
+        - {x: -116.5, y: -177}
+        - {x: -119.5, y: -177}
+      - - {x: -139.5, y: -167}
+        - {x: -139.5, y: -168}
+        - {x: -136.5, y: -171}
+        - {x: -133.5, y: -170}
+        - {x: -133.5, y: -167}
+        - {x: -135.5, y: -165}
+        - {x: -137.5, y: -165}
+      - - {x: -81.5, y: -152}
+        - {x: -78.5, y: -151}
+        - {x: -78.5, y: -148}
+        - {x: -81.5, y: -147}
+        - {x: -83.5, y: -149}
+      - - {x: -68.5, y: -132}
+        - {x: -66.5, y: -134}
+        - {x: -63.5, y: -133}
+        - {x: -63.5, y: -129}
+        - {x: -65.5, y: -127}
+        - {x: -68.5, y: -128}
+      - - {x: -66.5, y: -117}
+        - {x: -66.5, y: -121}
+        - {x: -64.5, y: -123}
+        - {x: -62.5, y: -123}
+        - {x: -60.5, y: -121}
+        - {x: -60.5, y: -119}
+        - {x: -63.5, y: -116}
+      - - {x: -59.5, y: -112}
+        - {x: -56.5, y: -111}
+        - {x: -56.5, y: -108}
+        - {x: -59.5, y: -107}
+        - {x: -61.5, y: -109}
+      - - {x: -86.5, y: -90}
+        - {x: -84.5, y: -92}
+        - {x: -81.5, y: -91}
+        - {x: -81.5, y: -87}
+        - {x: -83.5, y: -85}
+        - {x: -86.5, y: -86}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4eddf5187356844958306a0cffa8aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: People_2
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 884
+        width: 407
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 123}
+        - {x: 21.5, y: 102}
+        - {x: 49.5, y: 159}
+        - {x: 53.5, y: 223}
+        - {x: 4.5, y: 243}
+        - {x: -60.5, y: 243}
+        - {x: -77.5, y: 201}
+        - {x: -65.5, y: 144}
+        - {x: -129.5, y: 186}
+        - {x: -203.5, y: 98}
+        - {x: -203.5, y: 79}
+        - {x: -163.5, y: -156}
+        - {x: -124.5, y: -232}
+        - {x: -77.5, y: -243}
+        - {x: 28.5, y: -243}
+        - {x: 203.5, y: 108}
+        - {x: 203.5, y: 120}
+        - {x: 195.5, y: 126}
+      - - {x: 193.5, y: -232}
+        - {x: 183.5, y: -240}
+        - {x: 183.5, y: -243}
+        - {x: 203.5, y: -243}
+        - {x: 203.5, y: -232}
+      - - {x: 184.5, y: -235}
+        - {x: 187.5, y: -238}
+        - {x: 188.5, y: -238}
+        - {x: 191.5, y: -235}
+        - {x: 190.5, y: -232}
+        - {x: 185.5, y: -232}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927d8b96ad3977458908a1415cbff8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: People_3
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 607
+        width: 261
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 213}
+        - {x: 10.5, y: 210}
+        - {x: -6.5, y: 184}
+        - {x: -126.5, y: 210}
+        - {x: -126.5, y: -213}
+        - {x: -11.5, y: -213}
+        - {x: 70.5, y: -109}
+        - {x: 130.5, y: 22}
+        - {x: 130.5, y: 213}
+      - - {x: -48.5, y: -180}
+        - {x: -48.5, y: -182}
+        - {x: -46.5, y: -185}
+        - {x: -43.5, y: -185}
+        - {x: -40.5, y: -182}
+        - {x: -41.5, y: -179}
+        - {x: -46.5, y: -179}
+      - - {x: -63.5, y: -103}
+        - {x: -60.5, y: -102}
+        - {x: -60.5, y: -99}
+        - {x: -63.5, y: -98}
+        - {x: -65.5, y: -100}
+      - - {x: 65.5, y: 27}
+        - {x: 67.5, y: 25}
+        - {x: 70.5, y: 26}
+        - {x: 70.5, y: 29}
+        - {x: 68.5, y: 31}
+        - {x: 65.5, y: 30}
+      - - {x: 68.5, y: 33}
+        - {x: 71.5, y: 34}
+        - {x: 71.5, y: 37}
+        - {x: 68.5, y: 38}
+        - {x: 66.5, y: 36}
+      - - {x: -130.5, y: 43}
+        - {x: -130.5, y: 35}
+        - {x: -128.5, y: 35}
+        - {x: -126.5, y: 37}
+        - {x: -126.5, y: 41}
+        - {x: -128.5, y: 43}
+      - - {x: -112.5, y: 72}
+        - {x: -109.5, y: 69}
+        - {x: -108.5, y: 69}
+        - {x: -105.5, y: 72}
+        - {x: -106.5, y: 75}
+        - {x: -111.5, y: 75}
+      - - {x: 30.5, y: 213}
+        - {x: 31.5, y: 210}
+        - {x: 35.5, y: 210}
+        - {x: 37.5, y: 212}
+        - {x: 37.5, y: 213}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0189eefd747032f468a1ec6c0e70cdd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: People_4
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 860
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce175a017622c474985d2eaf47746e98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: People_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 129
+        width: 239
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.5, y: 202.5}
+        - {x: -109.5, y: -140.5}
+        - {x: -74.5, y: -213.5}
+        - {x: 115.5, y: -213.5}
+        - {x: 115.5, y: 112.5}
+        - {x: -23.5, y: 202.5}
+      - - {x: 32.5, y: -184.5}
+        - {x: 37.5, y: -181.5}
+        - {x: 36.5, y: -178.5}
+        - {x: 30.5, y: -178.5}
+        - {x: 29.5, y: -181.5}
+      - - {x: 51.5, y: -102.5}
+        - {x: 54.5, y: -101.5}
+        - {x: 54.5, y: -98.5}
+        - {x: 51.5, y: -97.5}
+        - {x: 49.5, y: -99.5}
+      - - {x: -81.5, y: 27.5}
+        - {x: -79.5, y: 25.5}
+        - {x: -76.5, y: 26.5}
+        - {x: -76.5, y: 29.5}
+        - {x: -78.5, y: 31.5}
+        - {x: -81.5, y: 30.5}
+      - - {x: -80.5, y: 33.5}
+        - {x: -77.5, y: 34.5}
+        - {x: -77.5, y: 37.5}
+        - {x: -80.5, y: 38.5}
+        - {x: -82.5, y: 36.5}
+      - - {x: 115.5, y: 41.5}
+        - {x: 115.5, y: 37.5}
+        - {x: 117.5, y: 35.5}
+        - {x: 119.5, y: 35.5}
+        - {x: 119.5, y: 43.5}
+        - {x: 117.5, y: 43.5}
+      - - {x: 94.5, y: 72.5}
+        - {x: 97.5, y: 69.5}
+        - {x: 98.5, y: 69.5}
+        - {x: 101.5, y: 72.5}
+        - {x: 100.5, y: 75.5}
+        - {x: 95.5, y: 75.5}
+      - - {x: -119.5, y: 130.5}
+        - {x: -117.5, y: 128.5}
+        - {x: -114.5, y: 129.5}
+        - {x: -114.5, y: 131.5}
+        - {x: -118.5, y: 135.5}
+        - {x: -119.5, y: 135.5}
+      - - {x: -113.5, y: 161.5}
+        - {x: -111.5, y: 159.5}
+        - {x: -108.5, y: 160.5}
+        - {x: -108.5, y: 166.5}
+        - {x: -110.5, y: 168.5}
+        - {x: -113.5, y: 167.5}
+      - - {x: -119.5, y: 170.5}
+        - {x: -116.5, y: 171.5}
+        - {x: -116.5, y: 177.5}
+        - {x: -118.5, y: 179.5}
+        - {x: -119.5, y: 179.5}
+      - - {x: -108.5, y: 184.5}
+        - {x: -108.5, y: 181.5}
+        - {x: -106.5, y: 179.5}
+        - {x: -103.5, y: 180.5}
+        - {x: -102.5, y: 184.5}
+        - {x: -104.5, y: 186.5}
+        - {x: -106.5, y: 186.5}
+      - - {x: -98.5, y: 192.5}
+        - {x: -95.5, y: 193.5}
+        - {x: -95.5, y: 196.5}
+        - {x: -98.5, y: 197.5}
+        - {x: -100.5, y: 195.5}
+      - - {x: -100.5, y: 202.5}
+        - {x: -99.5, y: 199.5}
+        - {x: -95.5, y: 199.5}
+        - {x: -93.5, y: 201.5}
+        - {x: -94.5, y: 204.5}
+        - {x: -98.5, y: 204.5}
+      - - {x: -111.5, y: 200.5}
+        - {x: -108.5, y: 201.5}
+        - {x: -108.5, y: 204.5}
+        - {x: -111.5, y: 205.5}
+        - {x: -113.5, y: 203.5}
+      - - {x: -88.5, y: 203.5}
+        - {x: -85.5, y: 204.5}
+        - {x: -85.5, y: 207.5}
+        - {x: -88.5, y: 208.5}
+        - {x: -90.5, y: 206.5}
+      - - {x: -118.5, y: 211.5}
+        - {x: -118.5, y: 209.5}
+        - {x: -115.5, y: 206.5}
+        - {x: -112.5, y: 207.5}
+        - {x: -112.5, y: 211.5}
+        - {x: -114.5, y: 213.5}
+        - {x: -116.5, y: 213.5}
+      - - {x: -48.5, y: 213.5}
+        - {x: -47.5, y: 210.5}
+        - {x: -43.5, y: 210.5}
+        - {x: -41.5, y: 212.5}
+        - {x: -41.5, y: 213.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46975be5260aba8459f3a6939e9304c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: People_6
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 383
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940f2832595e451408ca487a1b2d2edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ec1e06e5d505dc34f82df31f81977622
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
